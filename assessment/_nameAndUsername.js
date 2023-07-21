@@ -1,5 +1,5 @@
 /**
- * Please provide your full name and your GitHub username.
+ * Please provide your full name and your GitHub username. lol
  */
 
 const yourName = "Mario Wagner";
