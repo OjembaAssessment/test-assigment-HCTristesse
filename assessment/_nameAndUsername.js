@@ -2,6 +2,6 @@
  * Please provide your full name and your GitHub username.
  */
 
-const yourName = "";
+const yourName = "Mario Wagner";
 
-const yourGitHubUserName = "";
+const yourGitHubUserName = "HCTristesse";
